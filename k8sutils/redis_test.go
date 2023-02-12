@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	redisv1beta1 "github.com/OT-CONTAINER-KIT/redis-operator/api/v1beta1"
+	redisv1beta1 "github.com/artificialinc/redis-operator/api/v1beta1"
 )
 
 func TestCheckRedisNodePresence(t *testing.T) {

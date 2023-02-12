@@ -6,7 +6,7 @@ import (
 	"crypto/x509"
 	"strings"
 
-	redisv1beta1 "github.com/OT-CONTAINER-KIT/redis-operator/api/v1beta1"
+	redisv1beta1 "github.com/artificialinc/redis-operator/api/v1beta1"
 
 	"github.com/go-logr/logr"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
